@@ -8,7 +8,7 @@ public class DemoProjectApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(DemoProjectApplication.class, args);
-		System.out.println(" First Spring Project");
+		// System.out.println(" First Spring Project");
 	}
 
 }

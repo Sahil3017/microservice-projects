@@ -18,7 +18,7 @@ public class CheckController {
     @PostMapping("/add-data")
 
     public String postMethodName(@RequestParam String name) {
-        // TODO: process Post request
+
         return name;
     }
 }
